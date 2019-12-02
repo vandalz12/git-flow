@@ -4,3 +4,4 @@ Feature 2
 Hotfix 2
 Add Feature 3
 Add Feature 4
+Add Hotfix 4 Paraller to Feature 4
